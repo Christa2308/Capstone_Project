@@ -1,4 +1,5 @@
 ## PowerBI Project: TRANSPORTATION
+ PowerBI folder: https://drive.google.com/drive/u/0/folders/198lr9a4CulKprzBy8ZlWsYqyDhKmgy9E
 ### Overview
 This project contains a Power BI report and related resources analyzing patterns in public transport trips and passenger distribution across cities and years using data analytics and visualization. 
 1. We clean the Dataset,
@@ -25,3 +26,24 @@ I added a function that I would recommend for the best route
  <img width="1172" height="348" alt="output recommendation" src="https://github.com/user-attachments/assets/0864f663-cec5-4465-aa2c-866dca111c4c" />
 <img width="1121" height="627" alt="Recommendation best routes" src="https://github.com/user-attachments/assets/5a8e30ba-edb8-43be-8e30-ec129388b249" />
 
+### POWERBI TASKS
+This project involves the creation and analysis of interactive dashboards using Power BI — a powerful business intelligence tool used to visualize data and generate insights. 
+The main objective of this task is to transform raw data into meaningful visual reports that help users understand patterns, trends, and key metrics at a glance. 
+
+<img width="1109" height="686" alt="Dashboard" src="https://github.com/user-attachments/assets/90b606ab-53de-48af-a911-50ae99c98448" />
+On the top left corner,we have  KPIs (Cards)
+Total Number of Trips 
+Total Number of Passengers which communicate headline statistics.
+
+Then follows  Line Charts
+Trips and Passengers Over Time (Yearly Trends) X-Axis: Year 
+Y-Axis: Total Trips or Passengers 
+Shows whether usage is increasing or decreasing over time.
+
+1. Total Passengers by Year (Top Left)
+What it shows: The total number of passengers grouped by year. 
+Observation: Each year from 2018 to 2023 accounts for 63.28M passengers (16.7%), which  means: 
+Either your data is uniformly distributed across years. 
+ 
+
+ 
