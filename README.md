@@ -87,5 +87,32 @@ city_Riyadh (binary flag 1/0)
 region_Riyadh (binary flag 1/0) 
 route (individual route IDs)
 
-<img width="1159" height="522" alt="2nd page canvas" src="https://github.com/user-attachments/assets/03e275ff-6fb0-4e20-8415-8df55c0c7601" />
+<img width="1159" height="522" alt="2nd page canvas" src="https://github.com/user-attachments/assets/03e275ff-6fb0-4e20-8415-8df55c0c7601" /> 
+9. Top-Left:   
+ 
+Interpretation:
+1 ( January) had:  
 
+6.43M passengers. 
+573K trips Average: ~3,375 passengers per trip. 
+Majority of trips did not occur in January, as shown by the 0 group.
+
+10. Top-Right: City and Route Map:
+
+  What it shows:
+  
+A map of Saudi Arabia with cities (Jeddah, Mecca, Medina, Riyadh) and a route overlay. 
+Colored dots represent different routes (e.g., 10, 16, 9, etc.) using a Route legend.
+
+11.📉 Bottom: Total Trips by Route and Region_Riyadh
+
+📊 Bar Chart:
+
+X-axis: route values 
+Y-axis: Total Trips 
+Legend: region_Riyadh = 1 filter is applied.
+
+📝 Interpretation:
+
+Region "Riyadh" accounts for: 
+Most trips on route 9 (702K) and route 10 (606K).
